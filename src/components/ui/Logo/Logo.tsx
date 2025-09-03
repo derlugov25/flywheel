@@ -3,7 +3,6 @@ import cx from 'classnames'
 import { Href } from 'components/navigation'
 
 
-
 type LogoProps = {
   className?: string
 }
