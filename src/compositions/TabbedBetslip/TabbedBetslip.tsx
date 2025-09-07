@@ -17,6 +17,11 @@ const TabbedBetslip: React.FC = () => {
 
   return (
     <>
+      <div className="text-center mb-3">
+        <div className="text-orange-500 font-bold text-lg">
+          SOLANA CHAIN - SOON
+        </div>
+      </div>
       <div className="bg-bg-l0 rounded-md border border-grey-15 p-1 flex items-center">
         {
           tabs.map(tab => {
