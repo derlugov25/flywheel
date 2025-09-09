@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     ]
   },
   metadataBase: new URL(constants.baseUrl),
-  title: 'Flywheel.bet',
+  title: 'Flywheelbet',
   description: '',
 }
 
